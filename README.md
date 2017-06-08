@@ -1,2 +1,2 @@
-# simplealgos
+# simple-algos
 Simple algorithms
